@@ -1,0 +1,19 @@
+
+.div4{
+color: rgb(43, 226, 46);
+background-color: rgb(93, 0, 255);
+width: 200px;
+height: 170px;
+text-align: center;
+padding: 20px;
+border-top:12px purple solid;
+border-bottom: 12px green solid;
+
+margin: 20px red;
+}
+.div3{
+    color: bisque;
+    background-color: brown;
+    width: 200px;
+    border-bottom-left-radius: 50px violet ;
+}
